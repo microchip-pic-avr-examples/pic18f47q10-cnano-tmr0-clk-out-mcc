@@ -70,6 +70,7 @@ The following configurations must be made for this project:
 <br><img src="images/TMR0-clk-out-mcc-program.png" width="600">
 
 Result:
+<br>RC2 pin - Channel 0 (black) in the screenshot below
 <br><img src="images/TMR0_clk_out_RC2.png" alt="Hardware Setup"/>
 
 ## Summary
