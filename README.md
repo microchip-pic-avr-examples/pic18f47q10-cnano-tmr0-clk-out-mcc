@@ -4,7 +4,7 @@
 # PIC18F47Q10 Using TMR0 in 8-bit Mode and to Generate an Output Signal
 
 
-## Objective:
+## Objective
 This repository contains an example of MCC-generated source code for TMR0 as described in [*TBxxxx - Getting Started with Timers/Counters on PIC18*](https://www.microchip.com/) document from Microchip.
 
 <be>This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source.
