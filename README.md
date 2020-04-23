@@ -8,7 +8,7 @@
 This repository contains an example of MCC-generated source code for TMR0 as described in [*TBxxxx - Getting Started with Timers/Counters on PIC18*](https://www.microchip.com/) document from Microchip.
 
 <be>This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source.
-<br>A GPIO pin will be configured as output and a 125 Hz signal will be generated on the GPIO pin using the Peripheral Pin Select (PPS).
+<br>A GPIO pin will be configured as output and a 125 Hz signal will be generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS).
 <br>The code was generated using MPLAB Code Configurator.
 
 ## Related Documentation
