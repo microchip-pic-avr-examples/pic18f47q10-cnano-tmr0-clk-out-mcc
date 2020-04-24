@@ -47,6 +47,7 @@ The following configurations must be made for this project:
 	- Synchronization: disabled
 	- Timer interrupt: enabled
 - Watchdog Timer: disabled
+- Low-voltage Programming: enabled
 
 |Pin           | Configuration      |
 | :----------: | :----------------: |
