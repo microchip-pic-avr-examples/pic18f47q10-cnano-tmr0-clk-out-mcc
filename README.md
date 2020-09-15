@@ -5,14 +5,14 @@
 
 
 ## Objective
-This repository contains an example of MCC-generated source code for TMR0 as described in [*TBxxxx - Getting Started with Timers/Counters on PIC18*](https://www.microchip.com/) document from Microchip.
+This repository contains an example of MCC-generated source code for TMR0 as described in [*TB3285 - Getting Started with Timers/Counters on PIC18*](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1003329) document from Microchip.
 
 <be>This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source.
-<br>A GPIO pin will be configured as output and a 125 Hz signal will be generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS).
+<br>A GPIO pin is configured as output and a 125 Hz signal is generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS).
 <br>The code was generated using MPLAB Code Configurator.
 
 ## Related Documentation
-- [TBxxxx - Getting Started with Timers/Counters on PIC18](http://www.microchip.com/)
+- [TB3285 - Getting Started with Timers/Counters on PIC18](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1003329)
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
 - [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10-cnano&type=&language=)

@@ -3,28 +3,28 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-tmr0-clk-out-mcc",
+        "version": "1.0.1",
+        "displayName": "Using TMR0 in 8-bit Mode and to Generate an Output Signal",
+        "projectName": "pic18f47q10-cnano-tmr0-clk-out-mcc",
+        "shortDescription": "This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source. A GPIO pin is configured as output and a 125 Hz signal is generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS). The peripheral drivers were generated using MCC.",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "MPLAB X",
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "XC8",
+				"semverRange": "^2.10.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "PIC18F-Q_DFP",
+            "semverRange": "^1.3.89"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": "^3.95.0"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,26 +32,26 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
+            "Peripherals",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
+               "Peripherals", "TIMER", "TMR0"
             ]            			
         ],
         "peripherals": [
-            "",""
+            "TIMER","TMR0"
         ],
         "keywords": [
-            "",
-            ""			
+            "Timers/Counters",
+            "Timer/Counter",
+			"Clock Output",
+			"CLKOUT",
+			"LFINTOSC",
         ],
 		"additionalData": {
 			"longDescription": {
