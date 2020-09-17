@@ -40,14 +40,15 @@
         "subcategories": [
             "Peripherals",
             [
-               "Peripherals", "TIMER", "TMR0"
+               "Peripherals", "TIMER", "TMR0",
             ]            			
         ],
         "peripherals": [
-            "TIMER","TMR0"
+            "TIMER","TMR0",
         ],
         "keywords": [
-            "Timers/Counters",
+            "Getting Started",
+			"Timers/Counters",
             "Timer/Counter",
 			"Clock Output",
 			"CLKOUT",
