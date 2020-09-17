@@ -52,7 +52,7 @@
             "Timer/Counter",
 			"Clock Output",
 			"CLKOUT",
-			"LFINTOSC",
+			"LFINTOSC"
         ],
 		"additionalData": {
 			"longDescription": {
