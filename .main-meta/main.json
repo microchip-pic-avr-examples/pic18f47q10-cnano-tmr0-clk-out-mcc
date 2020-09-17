@@ -40,11 +40,11 @@
         "subcategories": [
             "Peripherals",
             [
-               "Peripherals", "TIMER", "TMR0",
+               "Peripherals", "TIMER", "TMR0"
             ]            			
         ],
         "peripherals": [
-            "TIMER","TMR0",
+            "TIMER","TMR0"
         ],
         "keywords": [
             "Getting Started",
