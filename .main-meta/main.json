@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-tmr0-clk-out-mcc",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Using TMR0 in 8-bit Mode and to Generate an Output Signal",
         "projectName": "pic18f47q10-cnano-tmr0-clk-out-mcc",
         "shortDescription": "This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source. A GPIO pin is configured as output and a 125 Hz signal is generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS). The peripheral drivers were generated using MCC.",
@@ -38,21 +38,18 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
             [
-               "Peripherals", "TIMER", "TMR0"
+               "Peripherals",
+			   "TMR0"
             ]            			
         ],
         "peripherals": [
-            "TIMER","TMR0"
+            "TMR0"
         ],
         "keywords": [
             "Getting Started",
 			"Timers/Counters",
-            "Timer/Counter",
-			"Clock Output",
-			"CLKOUT",
-			"LFINTOSC"
+			"Clock Output"
         ],
 		"additionalData": {
 			"longDescription": {
